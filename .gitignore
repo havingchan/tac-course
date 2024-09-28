@@ -1,6 +1,9 @@
 .vscode/
 .git-push.sh
 
+# keys
+**/keys/*
+
 # Local .terraform directories
 **/.terraform/*
 
